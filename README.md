@@ -19,3 +19,14 @@
 - [CodeForces](https://codeforces.com/)
 - A lot more sites out there
 
+## Meetups
+
+Meetups currently occur on Wednesdays 6 - 8 PM (May be changed)
+
+Annoucements are posted in: MACs society discord -> #ACM channel
+
+__Meetup Slides__
+
+https://drive.google.com/drive/folders/1jQM1nxQcRKlHtaaLpV_qym8UNtXgh6E3?usp=sharing
+
+

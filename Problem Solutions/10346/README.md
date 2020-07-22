@@ -1,0 +1,1 @@
+Geometric Sequence Solution possible

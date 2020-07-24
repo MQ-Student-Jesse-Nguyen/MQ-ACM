@@ -29,4 +29,8 @@ __Meetup Slides__
 
 https://drive.google.com/drive/folders/1jQM1nxQcRKlHtaaLpV_qym8UNtXgh6E3?usp=sharing
 
+## Daniel's (MQACM Supervisor) Tutorial Videos
+
+[Introduction to VIM](https://www.youtube.com/watch?v=bpEhXMg8GFk&feature=youtu.be)
+
 
